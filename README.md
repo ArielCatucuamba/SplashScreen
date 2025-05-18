@@ -24,13 +24,14 @@
    
 ## 3. Generar los recursos para las plataformas
    Abre una terminal en la raíz del proyecto y ejecuta:
+
     npx @capacitor/assets generate
    
 
 ## 4. Sincronizar los recursos con las plataformas
   Ejecuta en la terminal:
   npx cap sync
-  Esto copiará los nuevos íconos y splash screens a las carpetas de Android e iOS.
+
   
 ## 5. Verificar la configuración del Splash Screen
   Asegúrate de que en tu archivo capacitor.config.ts exista la configuración para el plugin SplashScreen. 
