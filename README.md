@@ -75,10 +75,12 @@
 
 ## 🖼️ Icono y Splash Screen
 
-| ![Captura 1](![image](https://github.com/user-attachments/assets/0dbc751c-d12e-4d6d-8987-acabac88924f)
-) | ![Captura 2](https://github.com/user-attachments/assets/d0e50eae-8649-46b9-9f33-17ea8e3deb0a) |
-|:--:|:--:|
-![image](https://github.com/user-attachments/assets/dfd33433-3182-400c-aeff-a0d6200bf42a)
+| Imagen 1 | Imagen 2 |
+|----------|----------|
+| ![img1](![image](https://github.com/user-attachments/assets/8853126f-ac2d-4e53-a803-9d25160c9477)
+) | ![img2](![image](https://github.com/user-attachments/assets/2449b4e3-d1fe-45cf-a8e8-0bed22b8c214)
+) |
+
 
 ---
 
