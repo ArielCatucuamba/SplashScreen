@@ -8,6 +8,7 @@
       -Fondo transparente recomendado.
       -Nómbrala como icon.png.
    Splash Screen ❗❗❗
+
       -Crea una imagen de 2732x2732 px en formato PNG.
       -Fondo sólido recomendado.
       -Nómbrala como splash.png.
