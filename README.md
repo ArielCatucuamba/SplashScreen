@@ -30,12 +30,14 @@
 
 ## 4. Sincronizar los recursos con las plataformas
   Ejecuta en la terminal:
-npx cap sync
+      npx cap sync
+
 
   
 ## 5. Verificar la configuración del Splash Screen
   Asegúrate de que en tu archivo capacitor.config.ts exista la configuración para el plugin SplashScreen. 
   Ejemplo:
+
   plugins: {
   SplashScreen: {
     launchShowDuration: 3000,
