@@ -1,7 +1,7 @@
 # 📸 Aplicación de Galería de Fotos usando Ionic
 
 ## Guía para Cambiar el Ícono y el Splash Screen en Ionic/Capacitor
-##1. Preparar las imágenes 🙂‍↔️🙂‍↕️
+## 1. Preparar las imágenes 🙂‍↔️🙂‍↕️
    Ícono ℹ️
       -Crea una imagen cuadrada de 1024x1024 px en formato PNG.
       -Fondo transparente recomendado.
@@ -11,24 +11,24 @@
       -Fondo sólido recomendado.
       -Nómbrala como splash.png.
    
-##2. Colocar las imágenes en el proyecto 🖼️🖼️🖼️🖼️
+## 2. Colocar las imágenes en el proyecto 🖼️🖼️🖼️🖼️
    Copia icon.png y splash.png en la carpeta:
      assets/
    La ruta debe ser:
         assets/icon.png
         assets/splash.png
    
-##3. Generar los recursos para las plataformas
+## 3. Generar los recursos para las plataformas
    Abre una terminal en la raíz del proyecto y ejecuta:
    npx @capacitor/assets generate
    Este comando generará automáticamente todos los tamaños necesarios de íconos y splash screens para Android e iOS, usando los archivos que pusiste en la carpeta assets.
 
-##4. Sincronizar los recursos con las plataformas
+## 4. Sincronizar los recursos con las plataformas
   Ejecuta en la terminal:
   npx cap sync
   Esto copiará los nuevos íconos y splash screens a las carpetas de Android e iOS.
   
-##5. Verificar la configuración del Splash Screen
+## 5. Verificar la configuración del Splash Screen
   Asegúrate de que en tu archivo capacitor.config.ts exista la configuración para el plugin SplashScreen. 
   Ejemplo:
   plugins: {
@@ -39,7 +39,7 @@
   }
 }
 
-##7. Instalar y ejecutar la app
+## 6. Instalar y ejecutar la app
   Desinstala la app anterior del emulador/dispositivo para evitar caché.
   Ejecuta la app de nuevo desde Android Studio o con:
   npx cap open android
