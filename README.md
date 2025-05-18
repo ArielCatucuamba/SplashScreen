@@ -77,7 +77,8 @@
 
 | Imagen 1 | Imagen 2 |
 |----------|----------|
-| ![img1](![image](https://github.com/user-attachments/assets/8853126f-ac2d-4e53-a803-9d25160c9477)) | ![img2](![image](https://github.com/user-attachments/assets/2449b4e3-d1fe-45cf-a8e8-0bed22b8c214)) |
+| ![img1](https://github.com/user-attachments/assets/8853126f-ac2d-4e53-a803-9d25160c9477) | ![img2](https://github.com/user-attachments/assets/2449b4e3-d1fe-45cf-a8e8-0bed22b8c214) |
+
 
 
 ---
