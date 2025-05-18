@@ -30,6 +30,7 @@
 
 ## 4. Sincronizar los recursos con las plataformas
   Ejecuta en la terminal:
+  
       npx cap sync
 
 
@@ -37,6 +38,7 @@
 ## 5. Verificar la configuración del Splash Screen
   Asegúrate de que en tu archivo capacitor.config.ts exista la configuración para el plugin SplashScreen. 
   Ejemplo:
+  ```
 
   plugins: {
   SplashScreen: {
@@ -45,11 +47,14 @@
     // ...otros parámetros opcionales
   }
 }
+  ```
 
 ## 6. Instalar y ejecutar la app
   Desinstala la app anterior del emulador/dispositivo para evitar caché.
   Ejecuta la app de nuevo desde Android Studio o con:
+  ```
   npx cap open android
+```
   Luego ejecutarla desde Android Studio verifica que todo este sincronizado y que se hayan echo los cambios correspondientes.
   
 
