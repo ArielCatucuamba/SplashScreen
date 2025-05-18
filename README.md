@@ -3,6 +3,7 @@
 ## Guía para Cambiar el Ícono y el Splash Screen en Ionic/Capacitor
 ## 1. Preparar las imágenes 🙂‍↔️🙂‍↕️
    Ícono ℹ️
+
       -Crea una imagen cuadrada de 1024x1024 px en formato PNG.
       -Fondo transparente recomendado.
       -Nómbrala como icon.png.
