@@ -15,15 +15,17 @@
    
 ## 2. Colocar las imágenes en el proyecto 🖼️🖼️🖼️🖼️
    Copia icon.png y splash.png en la carpeta:
+
      assets/
    La ruta debe ser:
+
         assets/icon.png
         assets/splash.png
    
 ## 3. Generar los recursos para las plataformas
    Abre una terminal en la raíz del proyecto y ejecuta:
-   npx @capacitor/assets generate
-   Este comando generará automáticamente todos los tamaños necesarios de íconos y splash screens para Android e iOS, usando los archivos que pusiste en la carpeta assets.
+    npx @capacitor/assets generate
+   
 
 ## 4. Sincronizar los recursos con las plataformas
   Ejecuta en la terminal:
